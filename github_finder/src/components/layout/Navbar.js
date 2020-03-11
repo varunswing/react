@@ -19,7 +19,7 @@ Navbar.defaultProps = {
 
 Navbar.propTypes = {
     title: PropTypes.string.isRequired,
-    iocn: PropTypes.string.isRequired
+    icon: PropTypes.string.isRequired
 };
 
 export default Navbar;
