@@ -26,3 +26,5 @@ yarn-error.log*
 /package.json
 /package-lock.json
 /src/setupTests.js
+# Local Netlify folder
+.netlify
