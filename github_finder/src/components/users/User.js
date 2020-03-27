@@ -53,8 +53,9 @@ const User = ({ match }) => {
 						alt=''
 						style={{ width: '150px' }}
 					/>
-					<h1>{name}</h1>
-					<p>Location: {location}</p>
+					{location && (
+							<h4>Location: {location}</h4>
+					)}
 				</div>
 				<div>
 					{bio && (
