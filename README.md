@@ -6,3 +6,5 @@ Made few projects based on react
 
 2.  github_finder is a web application to find github users by their username.
     https://varunsgithubfinder.netlify.app/
+
+3.  it_logger is a web application to keep record of daily works of it employees.
